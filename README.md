@@ -2,6 +2,9 @@
 
 An interactive multi-page quiz application built using vanilla JavaScript, HTML, and CSS. Users can choose difficulty, answer randomized questions fetched from an external trivia API, and track their scores — all stored using browser `localStorage`.
 
+🔗 **Live Demo:**  
+https://aroma-responsive-perfume-store-webs.vercel.app/
+
 ---
 
 ## 🚀 Features
